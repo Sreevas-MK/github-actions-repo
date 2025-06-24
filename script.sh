@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Simple bash script: Version1"
+echo "Simple bash script: Version2"
